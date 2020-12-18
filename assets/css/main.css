@@ -239,6 +239,7 @@ footer {
 }
 
 .wrapper.style4 {
+    padding: 4em 0 4em 0;
     background-color: #303030;
     color: #999;
     text-shadow: -1px -1px 0px #181818;
@@ -547,6 +548,13 @@ footer {
     color: inherit;
 }
 
-#contact footer {
-font-size: 0.9em;
+#copyright {
+    color: #f4f4f4;
+    font-size: 1em;
+    line-height: 1em;
+    list-style: none;
+    padding-left: 10px;
+    padding-top:20px;
+    margin-bottom: 0;
 }
+
