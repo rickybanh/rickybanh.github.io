@@ -1,0 +1,17 @@
+<svg width="103mm" height="103mm" version="1.1" viewBox="0 0 103 103" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" class="animate-svg"><defs><style>.animate-svg path{-webkit-animation:draw ease-in-out forwards;animation:draw ease-in-out forwards;stroke:#000}.animate-svg{-webkit-animation:fillopacity 3 ease-in-out forwards;animation:fillopacity 3s ease-in-out forwards}@-webkit-keyframes draw{100%{stroke-dashoffset:0}}@keyframes draw{100%{stroke-dashoffset:0}}@-webkit-keyframes fillopacity{0%,70%{fill-opacity:0;stroke-width:0.5%}100%{fill-opacity:1;stroke-width:0}}@keyframes fillopacity{0%,70%{fill-opacity:0;stroke-width:0.5%}100%{fill-opacity:1;stroke-width:0}}</style></defs>
+
+    <g id="theGroup" transform="translate(-49.014 -90.173)">
+        <rect x="50.514" y="91.673" width="100" height="100" fill="#fff" stroke="#050505" stroke-width="3"></rect>
+        <g fill="none" stroke="#000" stroke-width="2">
+            <path d="m100.51 91.673v100" style="stroke-dasharray: 100; stroke-dashoffset: 100; animation-delay: 0s; animation-duration: 1.47s;"></path>
+            <path d="m150.51 141.67h-100s50-1e-5 50 50" style="stroke-dasharray: 179.319; stroke-dashoffset: 179.319; animation-delay: 0.166667s; animation-duration: 1.42138s;"></path>
+            <path d="m100.51 91.673c59.509 0.24382 67.74 50.455 0 50" style="stroke-dasharray: 117.999; stroke-dashoffset: 117.999; animation-delay: 0.333333s; animation-duration: 1.40769s;"></path>
+        </g>
+        <g fill="#999" stroke-width="0">
+            <path id="stroke1" transform="scale(.26458)" d="m372.36 650.07c-3.3847-10.393-11.796-27.462-18.357-37.253-21.527-32.124-53.479-55.338-95.391-69.305l-11.617-3.8712 128.79-0.0598v59.599c0 32.779-0.1336 59.599-0.29687 59.599-0.16328 0-1.5731-3.9189-3.133-8.7087z" style="stroke-dasharray: 431.279; stroke-dashoffset: 431.279; animation-delay: 0.5s; animation-duration: 2.32794s;" begin="2s;"></path>
+            <path id="stroke2" transform="scale(.26458)" d="m561.66 427.94c0-2.5778-5.5791-14.023-10.151-20.825-5.3078-7.896-17.424-20.021-26.214-26.232-14.574-10.299-28.458-17.176-48.992-24.27l-11.112-3.8384 97.48-0.0699v38.386c0 21.112-0.22729 38.386-0.50508 38.386s-0.50508-0.69183-0.50508-1.5374z" style="stroke-dasharray: 303.125; stroke-dashoffset: 303.125; animation-delay: 0.666667s; animation-duration: 1.8003s;"></path>
+            <path id="stroke3" transform="scale(.26458)" d="m480.85 527.59c29.47-8.8599 48.787-19.535 63.817-35.267 8.0878-8.4654 11.769-13.959 15.607-23.288l2.3507-5.715 0.048 68.185-94.449-0.1192z" style="stroke-dasharray: 284.011; stroke-dashoffset: 284.011; animation-delay: 0.833333s; animation-duration: 1.72906s;"></path>
+        </g>
+
+    </g>
+</svg>

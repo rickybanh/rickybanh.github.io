@@ -112,6 +112,10 @@ h3 {
     letter-spacing: -0.015em;
 }
 
+#portfolio h3:hover{
+    color:#43bff0;
+}
+
 em, i {
     font-style: italic;
 }
@@ -155,7 +159,13 @@ footer {
         font-size: 1.25em;
     }
 
-    
+.logo{
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    width: 50px;
+}
+
 #nav {
     background-color: #282828;
     text-align: center;
@@ -193,8 +203,7 @@ footer {
     font-weight: 600;
     border-radius: 8px;
     color: #fff;
-    height: 2.5em;
-    line-height: 2.5em;
+    /* line-height: 2.5em; */
     padding: 0 1.25em;
 }
 
@@ -217,6 +226,11 @@ footer {
     border-left: solid 0.75em transparent;
     border-right: solid 0.75em transparent;
     border-top: solid 0.6em #282828;
+}
+
+.resume{
+    position: absolute;
+    right:10px;
 }
 
 .wrapper {
